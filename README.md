@@ -7,7 +7,7 @@ Understanding your audience’s expertise level helps determine the depth of exp
 Create audience personas to understand their knowledge level and needs.
 Adjust language complexity, using technical terms for experts and plain language for non-experts.
 Use a layered approach, providing basic explanations first with links to more detailed content.
-Incorporate relatable examples and analogies to simplify complex concepts.
+Incorporate relatable examples and analogies to simplify complex concepts
 
 # How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 Conduct surveys or interviews to assess their familiarity with technical concepts.
